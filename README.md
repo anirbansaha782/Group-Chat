@@ -13,7 +13,7 @@ java Server
 ![Screenshot](server2.png)
 
 
-<h3>To start indivial Client for each user</h3>
+<h3>To start individual Client for each user</h3>
 
 ```
 javac Client.java
